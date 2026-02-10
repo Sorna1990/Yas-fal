@@ -1,0 +1,7 @@
+@Component({
+  selector: 'app-root',
+  standalone: true,
+  template: `<!-- The  fixed, non-scrolling background elements -->
+  <div class="fixed inset-0 z-0 bg-gray-900 dark:bg-gray-950">
+    <!-- First background element -->
+    <
