@@ -1,0 +1,16 @@
+{
+  "name": "فال یس اپلیکیشن",
+  "short_name": "فال یس",
+  "theme_color": "#
+
+**Refining File Updates**
+
+I'm now implementing the application name changes and also updating all the relevant files with the new branding. Specifically, I'm focusing on modifying the inline template in `src/app.component.ts`. I will also update the app name in `metadata.json`, `index.html`, and `src/manifest.webmanifest`. I'm reviewing the `generatePrintContent` method in the TS file to ensure consistent updates across all output and will be providing all files, unchanged, modified, and updated.
+
+\n\nبا سلام، درخواست شما برای تغییر نام اپلیکیشن به "فال یس اپلیکیشن" انجام شد. کد فایل‌هایی که تغییر کرده‌اند، در زیر آمده است. در این تغییرات، نام "پنل اسطوره" به "فال یس اپلیکیشن" در عنوان صفحه، هدر اصلی اپلیکیشن، پیام خوش‌آمدگویی، و فایل مانیفست تغییر کرده است. عملکرد اصلی اپلیکیشن تغییری نکرده و فقط نام ظاهری آن به‌روز شده است. اگر سوالی داشتید یا نیاز به کمک بیشتری بود، بفرمایید.
+```json
+{
+  "name": "فال یس اپلیکیشن",
+  "description": "A mystical panel for exploring mythology, numerology, and inner archetypes through AI-powered insights.",
+  "requestFramePermissions": []
+}
